@@ -3,9 +3,9 @@
 :product-name: Bash Commands Cheat Sheet
 :hide-uri-scheme:
 
-A Bash script is a text file that contains programming statements that execute commands that are part of the host computer's operating system. Typically system administrators and programmers use Bash scripts to avoid having to repetitively execute tasks manually in a terminal.
+A Bash script is a text file that contains programming statements that execute commands that are part of the host computer's operating system. Typically system administrators and programmers use Bash scripts to avoid having to repetitively execute manual tasks in a terminal.
 
-A typical use case for a Bash script is to do set up tasks for a new provisioned computer. Thus, in addition to be ing a tool for system administrators and programmers, a Bash script can also be used by system provisioning software.
+A typical use case for a Bash script is to set up tasks for a newly provisioned computer. Thus, in addition to being a tool for system administrators and programmers, a Bash script can also be used by system provisioning software.
 
 == Running a bash script
 
